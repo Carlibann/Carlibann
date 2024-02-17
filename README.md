@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hola Bienvenido a my Perfil👋
 
-<!--
-**Carlibann/Carlibann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Carlibann/Carlibann**.
 
-Here are some ideas to get you started:
+Soy un joven con un prosito de ser un experto en esta area,
+cuento con conosimientos en diseños grafico, Programación e informatica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Conosimientos de Programación:
+- 🟢 HTML5.
+- 🟢 Css.
+- 🟢 JavaScript.
+- 🟢 PHP.
+- 🟢 SQL.
+
+# Conosimiento en Diseñó gráfico:
+- 🟢 Photoshop.
+- 🟢 Ilustrador.
+- 🟢 XD.
+- 🟢 Animate.
+- 🟢 Blender.
+- 🟢 Filmora.
+- 🟢 Dreamweaver.
+- 🟢 InDesign.
+
+# Estudios Técnicos:
+- Técnico Especialista en Computación.
+- Técnico Especialista en Programación.
+- Técnico Especialista en Diseño Gráfico.
