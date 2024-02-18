@@ -17,7 +17,7 @@ cuento con conosimientos en diseños grafico, Programación e informatica.
 - 🟢 Dreamweaver.
 - 🟢 InDesign.
 
-[![My Skills](https://skillicons.dev/icons?i=xd,ai,blender,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xd,ai,blender,photoshop,ae)](https://skillicons.dev)
 
 
 ## Estudios Técnicos:
