@@ -9,7 +9,7 @@ cuento con conosimientos en diseños grafico, Programación e informatica.
 
 ## Conosimiento en Diseñó gráfico:
 
-[![My Skills](https://skillicons.dev/icons?i=xd,ai,blender,photoshop,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=xd,ai,blender,photoshop,ae,unity)](https://skillicons.dev)
 
 - 🟢 Filmora.
 - 🟢 Dreamweaver.
