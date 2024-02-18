@@ -1,18 +1,16 @@
-### Hola Bienvenido a my Perfil👋
-
-**Carlibann/Carlibann**.
+# Hola Bienvenido a my Perfil👋
 
 Soy un joven con un prosito de ser un experto en esta area,
 cuento con conosimientos en diseños grafico, Programación e informatica.
 
-# Conosimientos de Programación:
+## Conosimientos de Programación:
 - 🟢 HTML5.
 - 🟢 Css.
 - 🟢 JavaScript.
 - 🟢 PHP.
 - 🟢 SQL.
 
-# Conosimiento en Diseñó gráfico:
+## Conosimiento en Diseñó gráfico:
 - 🟢 Photoshop.
 - 🟢 Ilustrador.
 - 🟢 XD.
@@ -22,7 +20,7 @@ cuento con conosimientos en diseños grafico, Programación e informatica.
 - 🟢 Dreamweaver.
 - 🟢 InDesign.
 
-# Estudios Técnicos:
+## Estudios Técnicos:
 - Técnico Especialista en Computación.
 - Técnico Especialista en Programación.
 - Técnico Especialista en Diseño Gráfico.
