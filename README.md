@@ -5,7 +5,7 @@ cuento con conosimientos en diseños grafico, Programación e informatica.
 
 ## Conosimientos de Programación:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,bootstrap,jquery,vscode)](https://skillicons.dev)
 
 ## Conosimiento en Diseñó gráfico:
 
