@@ -5,20 +5,15 @@ cuento con conosimientos en diseños grafico, Programación e informatica.
 
 ## Conosimientos de Programación:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,bootstrap,jquery)](https://skillicons.dev)
 
 ## Conosimiento en Diseñó gráfico:
-- 🟢 Photoshop.
-- 🟢 Ilustrador.
-- 🟢 XD.
-- 🟢 Animate.
-- 🟢 Blender.
-- 🟢 Filmora.
-- 🟢 Dreamweaver.
-- 🟢 InDesign.
 
 [![My Skills](https://skillicons.dev/icons?i=xd,ai,blender,photoshop,ae)](https://skillicons.dev)
 
+- 🟢 Filmora.
+- 🟢 Dreamweaver.
+- 🟢 InDesign.
 
 ## Estudios Técnicos:
 - Técnico Especialista en Computación.
